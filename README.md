@@ -1,4 +1,8 @@
-## Oi eu sou a Raphael Garcia, criador de conteúdo e Desenvolvedor Front-end !
+<div align="center">
+  
+  ## OLA, eu sou Raphael Garcia, criador de conteúdo e Desenvolvedor Front-end !
+  
+</div>
 
 <div align="center">
   <a href="https://matefranca.itch.io">
