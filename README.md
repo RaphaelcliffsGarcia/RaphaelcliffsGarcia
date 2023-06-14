@@ -1,14 +1,17 @@
 <div align="center">
   
-  ## OLA, eu sou Raphael Garcia, criador de conteúdo e Desenvolvedor Front-end !
   
+  [![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=f560d2&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+is+Raphael+Garcia;I'm+27+years+old;I+am+from+Rio+De+Janeiro,+RJ;Be+Welcome!+:%29)](https://git.io/typing-svg)
+
 </div>
 
 <div align="center">
-  <a href=https://github.com/RaphaelcliffsGarcia></a>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelcliffsGarcia&show_icons=true&theme=ocean_dark&include_all_commits=true&count_private=true">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelcliffsGarcia&layout=compact&langs_count=7&theme=ocean_dark">
+ 
+   <img  height="180em" src="https://github-readme-stats.vercel.app/api?username=RaphaelcliffsGarcia&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=RaphaelcliffsGarcia&layout=compact&langs_count=7&theme=jolly">
 </div>
+  
+  
   
 ##  
   
@@ -24,17 +27,4 @@
 <div align="center">
   <img  src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjQxOWEyYmRkOTUzNjE3NzI5NzljYzg3YTdmMmY0YjllM2E3ZWM4ZCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PWc/lW9XPLjNXyDDO/giphy.gif" width="312" height="222" />
 </div>
-<!--
-**RaphaelcliffsGarcia/RaphaelcliffsGarcia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
