@@ -8,7 +8,7 @@
 <p>
   Hi 👋, I'm Raphael! A passionate Full Stack student from Brazil.
 
-  - 🌱 I’m currently studying Full Stack Developer at PUC RJ
+  - 🌱 I’m currently studying Full Stack Developer and Python at PUC RJ
 
   - 🔭 I am looking for my first job opportunity. My dream is to one day work with AI and Machine Learning.
 </p>
@@ -18,9 +18,8 @@
 <details>
   <summary>👨‍💻 More about me</summary>
 
-  - 💬 I am 26 years old, currently living in Brazil. I have fluency in English and have experience with SQL, Python, Data Analysis, Data visualization, and Machine Learning. I'm also a content creator on YouTube since 2018, which helped me develop important skills such as creativity, communication, marketing, analytical capability, community and social media management.
-
-  - ⚡ I enjoy reading, whether it's a good book, manga, or comics, as well as watching movies and playing games! I believe that our personal interests contribute to a more refined perception of things and problem-solving. \o/
+  - 💬 I'm 28 years old and hold a degree in Game Design from IBMR. After completing the UX course at Awari, I discovered my passion for web design. Currently, I'm pursuing a postgraduate degree in Full Stack Development at PUC-RJ. While my ultimate goal is to specialize as a full stack developer in the future, I'm fully embracing the journey towards that aspiration. I aim to gain experience in front-end development, deepen my knowledge in UX/UI, and tackle new challenges in this field. I'm open to enriching opportunities and partnerships.
+  - ⚡I enjoy playing games, playing guitar, as well as watching movies! Additionally, I create videos about T-shirt designs for my YouTube channel. I believe that our personal interests contribute to a more refined perception of things and problem-solving.\o/
 </details>
   
   <!-- Links -->
@@ -45,10 +44,10 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Python - Exploratory data analysis](https://github.com/VariableBee/EDA_Loggi)
-- [Google Data Studio - COVID-19 Interactive Dashboard](https://github.com/VariableBee/COVID_19_DASHBOARD)
-- [SQL - Querying and analyzing data with AWS Athena](https://github.com/VariableBee/AWS_Athena_Queries)
-- [C - Registration and query system](https://github.com/VariableBee/Cartorio)
+- [Html ,Css , Js - Honey Farm](https://github.com/RaphaelcliffsGarcia/Honey-Farm)
+- [React - Movie APP](https://github.com//RaphaelcliffsGarcia/MovieApp)
+- [JavaScript - Animais Fantasticos](https://github.com/RaphaelcliffsGarcia/Animais-Fantasticos)
+- [JavaScript - Rick And Motry API](https://github.com//RaphaelcliffsGarcia/Rick-And-Motry-API)
   
 <!-- GIF -->
 <div align="center">
