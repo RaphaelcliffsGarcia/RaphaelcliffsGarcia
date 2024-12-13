@@ -44,7 +44,7 @@
 
 <!-- Portfolio -->
 ## Portfolio:
-- [Html,Css - Honey Farm](https://github.com/RaphaelcliffsGarcia/Honey-Farm)
+- [Python/Data Science - Jupyter com análises](https://github.com/RaphaelcliffsGarcia/CursoAlura)
 - [React - Movie APP](https://github.com//RaphaelcliffsGarcia/MovieApp)
 - [JavaScript - Animais Fantasticos](https://github.com/RaphaelcliffsGarcia/Animais-Fantasticos)
 - [JavaScript - Rick And Motry API](https://github.com//RaphaelcliffsGarcia/Rick-And-Motry-API)
