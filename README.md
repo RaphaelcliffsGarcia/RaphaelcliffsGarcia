@@ -59,7 +59,7 @@
   
 <!-- GIF -->
 <div align="center">
-  <img  src="https://i.giphy.com/j3OL6mSc2FeV0UHMDg.webp" width="960" height="540" />
+  <img src="https://media.giphy.com/media/j3OL6mSc2FeV0UHMDg/giphy.gif" alt="Hello World Gif" width="600"/>
 </div>
 
 ## 🔥 Skills
